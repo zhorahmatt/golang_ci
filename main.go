@@ -14,7 +14,7 @@ func main()  {
 	sum := Sum(2,3)
 	sub := subtraction(10, 5)
 
-	//printing result
+
 	fmt.Println(sum)
 	fmt.Println(sub)
 }
